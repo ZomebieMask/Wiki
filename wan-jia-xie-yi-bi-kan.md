@@ -1,10 +1,6 @@
 # 🧾 玩家协议 \[必看]
 
-## 进入服务器/交流群默认同意以下条款
-
-{% hint style="warning" %}
-**如若不同意以下任何一个条款请及时退出瘾流服务器及官方交流群** **来自 —— ZM管理组**
-{% endhint %}
+#### 进入服务器/交流群默认同意以下条款**如若不同意以下任何一个条款请及时退出服务器及官方交流群** **来自 —— ZM管理组** <a href="#https-picx.zhimg.com-v2-62db79b7d0c3da5bfd46097dd35a6096_r.jpg-source-1940ef5c" id="https-picx.zhimg.com-v2-62db79b7d0c3da5bfd46097dd35a6096_r.jpg-source-1940ef5c"></a>
 
 ## 协议
 
