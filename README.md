@@ -1,6 +1,6 @@
 # 📃 首页
 
-## YinLiu 123123 Wiki
+## ZMServer-生存服务器 Wiki
 
 欢迎来到瘾流服务器，本 Wiki 将会为您提供一份服务器相关介绍。
 
@@ -13,20 +13,20 @@
 {% hint style="info" %}
 服务器版本： **`1.18 - 1.18.2`**
 
-服务器直连IP： **`yinliu.mcbx.top`**
+服务器直连IP：school.zmrpgcool.top
 {% endhint %}
 
 ### 交流中心
 
 {% hint style="info" %}
-服务器官网： [**www.mcbx.top**](https://www.mcbx.top/)
+服务器官网： www.zmrpgcool.top
 
-服务器交流群： [**864843803**](https://jq.qq.com/?\_wv=1027\&k=mET5fRbs)
+服务器交流群：472764313
 
-服务器Kook： [**点击进入服务器KOOK**](https://kook.top/W8u99D)
+服务器皮肤站：skin.zmrpgcool.top
 {% endhint %}
 
-`KooK是类似QQ群聊的一种交流开黑中心，网页、软件都可使用，非常方便`
+`ZM皮肤站适用于所有无正版但想要有皮肤的玩家`
 
 ***
 
